@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Mood Space")
 
 # SUBTITULO
-st.header("Mi primera app interactiva :)")
+st.header("Mi primera app interactiva 💗")
 
 # TEXTO
 st.subheader(
