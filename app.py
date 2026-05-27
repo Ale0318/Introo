@@ -16,11 +16,7 @@ st.write(
 )
 
 # IMAGEN
-st.image(
-    "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
-    width=450,
-    caption="Interfaces Multimodales"
-)
+st.image("intro.jpg", width=350)
 
 # INPUT
 texto_usuario = st.text_input(
